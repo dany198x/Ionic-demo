@@ -1,0 +1,13 @@
+@media screen and (min-width: 769px) {
+    ion-tab-bar {
+        display: none;
+    }
+}
+$citi-blue:#056dae;
+$citi-gold: #b5985c;
+ion-tab-bar {
+    &.gold {
+        --color-selected: var(--ion-tab-bar-color-activated,var(--ion-color-secondary,#b5985c));
+    }
+}
+
