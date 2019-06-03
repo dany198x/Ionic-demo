@@ -20,6 +20,8 @@ ionic cordova platform add ios
 
 ionic cordova platform add android
 
+//After above 2 commands, you can find the android and ios projects under the platforms folder.
+
 //Everytime after update the source code:
 
 ionic cordova build ios //Be noticed this command is only valid on MacOS
