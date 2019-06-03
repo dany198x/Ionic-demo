@@ -27,3 +27,5 @@ ionic cordova platform add android
 ionic cordova build ios //Be noticed this command is only valid on MacOS
 
 ionic cordova build android
+
+The png file under the root path show the directory structure of the project.
